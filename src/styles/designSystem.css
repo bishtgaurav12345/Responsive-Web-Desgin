@@ -144,7 +144,7 @@
 */
 
 .hero {
-  background-color: var(--color-green-100);
+  background-color:#cf69d8 ;
 }
 
 /**
@@ -203,7 +203,7 @@
 **/
 
 .footerWrapper {
-  background-color: var(--color-green-100);
+  background-color: #525252;
 }
 
 .footerLinks {
